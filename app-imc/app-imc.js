@@ -5,11 +5,6 @@ var imc = [];
 var resultado = [];
 var nome = [];
 function calcular(event){
-    
-
-    
-
-
     event.preventDefault();
     nome[0]     = document.getElementById("nome01").value;
     peso[0]     = document.getElementById("peso01").value;
