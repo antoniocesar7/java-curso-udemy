@@ -30,15 +30,7 @@ function convidados(...nome){
         // idDivEstatica.appendChild(labelNome[1]);
         // idDivEstatica.appendChild(document.createElement("br"));
   
-    
-    
-
-    
-
-    
    
-
-    
 
 }
 
